@@ -3,6 +3,8 @@
 
 Python package for processing science data from the Gavia Autonomous Underwater Vehicle
 
+## Usage
+Click <a href="https://github.com/brett-hosking/gavia/blob/master/examples/Examples.md" target="_blank">here </a> for usage examples
 
 ## Install and setup virtualenv:
 
