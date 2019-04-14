@@ -17,6 +17,7 @@ setup(name='gavia',
       author_email='wilski@noc.ac.uk',
       install_requires=[
             "numpy>=1.16.2",
+            "imageio>=2.5.0 "
                 ],
       packages=find_packages()
       )
