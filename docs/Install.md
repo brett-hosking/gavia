@@ -20,8 +20,14 @@
 
 ## Activate virtual environment
 
+### Unix
+
     source myenv/bin/activate
 
+### Windows 
+
+    myenv/Scripts/activate
+    
 >the environment can be deactivated with the **deactivate** command
 
 ## Install Package using **pip** (recomended)
