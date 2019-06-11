@@ -135,6 +135,8 @@ def loadlog(projectdir):
                     imgfiledir                       = findpath(imagepaths,filename)
                     if not imgfiledir == None:
                         filepath                     = os.path.join(imgfiledir,filename)
+                    else:
+                        filepath                     = None
                 else:
                     capture_epoch,capture_micro     = None,None
                     capture_dtime                   = [None,None,None,None,None,None]
